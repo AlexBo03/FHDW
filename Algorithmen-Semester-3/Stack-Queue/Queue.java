@@ -1,4 +1,4 @@
-package Stack_Queue;
+package FHDW;
 
 import java.util.Arrays;
 import java.util.Iterator;
