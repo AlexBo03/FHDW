@@ -1,4 +1,4 @@
-package FHDW;
+package Semester3.Algorithmen.StackQueue;
 
 import java.util.Arrays;
 import java.util.Iterator;
